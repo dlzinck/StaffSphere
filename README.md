@@ -11,10 +11,9 @@ A command-line application for managing a company's employee database with ease.
 1. [Overview](#overview)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Features](#features)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## Overview
 
@@ -40,13 +39,6 @@ Key features include:
 1. Open the terminal and navigate to the project directory.
 2. Run node index.js to start the application.
 3. Follow the prompts to manage the employee database, including adding, updating, and deleting employee information.
-
-## Features
-
-1. View a list of all employees, including their details such as name, role, department, and manager.
-2. Add new employees to the database with relevant information.
-3. Update existing employee information, such as role or manager.
-4. Remove employees from the database as needed.
 
 ## Contributing
 
