@@ -21,3 +21,25 @@ VALUES
     ('Technical Program Manager', 150000, 2),
     ('Social Media Manager', 105000, 3),
     ('Sales Manager', 160000, 4);
+
+INSERT INTO employee
+    (first_name, last_name, role_id, manager_id)
+VALUES
+    ('Alice', 'Johnson', 1, NULL),
+    ('Bob', 'Smith', 2, 1),
+    ('Charlie', 'Brown', 3, NULL),
+    ('David', 'Lee', 4, 1),
+    ('Emma', 'Taylor', 5, NULL),
+    ('Frank', 'Clark', 6, 5),
+    ('Grace', 'White', 7, NULL),
+    ('Henry', 'Martinez', 8, 7),
+    ('Isabella', 'Garcia', 9, 4),
+    ('Jack', 'Anderson', 10, 9),
+    ('Sophia', 'Lopez', 1, 2),
+    ('William', 'Wilson', 4, 1),
+    ('Olivia', 'Thomas', 5, NULL),
+    ('James', 'Harris', 6, 5),
+    ('Ava', 'Martin', 7, NULL),
+    ('Daniel', 'Moore', 8, 7),
+    ('Emily', 'Jackson', 9, 4),
+    ('Alexander', 'Davis', 10, 9);
